@@ -5,7 +5,7 @@ import { BellIcon, MenuIcon, XIcon, UsersIcon } from '@heroicons/react/outline';
 import SearchVolumeItem from './components/SearchVolumeItem';
 import MainChart from './components/MainChart';
 // import MainChart2 from './components/MainChart2';
-import SideChart from './components/MainChart_original';
+import SideChart from './components/SideChart';
 import NewsItem from './components/NewsItem';
 import BlogItem from './components/BlogItem';
 import CafeItem from './components/CafeItem';
